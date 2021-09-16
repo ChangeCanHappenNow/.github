@@ -1,1 +1,1 @@
-# .github of change can happen now
+Change can happen now
